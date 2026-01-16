@@ -63,4 +63,5 @@ This repository showcases my data science projects, highlighting my ability to:
 
 📫 **Contact:**
 LinkedIn: *https://www.linkedin.com/in/joão-victor-assunção-pereira-88a461211/*
+
 GitHub: *Felicxio*

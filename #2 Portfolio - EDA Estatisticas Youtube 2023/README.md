@@ -14,7 +14,7 @@ The objective is to understand how top YouTube channels are distributed across c
 
 ## Dataset
 
-* **Source:** Kaggle – Global YouTube Statistics 2023
+* **Source:** Kaggle – Global YouTube Statistics 2023 (https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023/discussion/442205)
 * **Description:** The dataset contains information about popular YouTube channels worldwide, including subscribers, total views, uploads, country, content category and estimated earnings.
 
 ## Project Structure

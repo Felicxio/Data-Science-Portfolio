@@ -29,6 +29,7 @@ This project was developed as part of a **Data Science / Data Engineering portfo
 ---
 Link to see the updated dashboard: https://dbc-fa69dc59-598c.cloud.databricks.com/dashboardsv3/01f0f6fc6ed01834b7ed49aec3f766a5/published?o=7474644799170997
 
-<img width="1674" height="776" alt="image" src="https://github.com/user-attachments/assets/21ca9aa1-bc76-484f-a5bf-67c0cf50857b" />
+<img width="1662" height="348" alt="image" src="https://github.com/user-attachments/assets/6beecb84-9a95-4fec-b95e-c84b435c4ff6" />
+
 
 

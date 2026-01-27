@@ -25,8 +25,11 @@ O envio de email funciona apenas em ambiente Windows com Outlook configurado.
 ├── requirements.txt
 ```
 EMAIL ENVIADO:
+
 <img width="469" height="825" alt="image" src="https://github.com/user-attachments/assets/888d9895-4a51-44de-9f34-249e79e095bf" />
+
 <img width="359" height="739" alt="image" src="https://github.com/user-attachments/assets/d8c2923b-1fd7-412a-92e9-e0240f6a558f" />
+
 <img width="398" height="845" alt="image" src="https://github.com/user-attachments/assets/409688bd-2622-467b-91ec-d26060123fcd" />
 
 

@@ -7,6 +7,7 @@ This repository contains a **machine learning notebook** that classifies Spotify
 ## 📊 Dataset (EN)
 
 * Source: **Kaggle – Spotify Music Dataset**
+* https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download
 * Includes audio features such as tempo, energy, danceability, loudness, and others.
 
 ## ⚙️ What Was Done (EN)
@@ -42,6 +43,7 @@ Este repositório contém um **notebook de machine learning** que classifica mú
 ## 📊 Dataset (PT-BR)
 
 * Fonte: **Kaggle – Dataset de Músicas do Spotify**
+* https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download
 * Contém atributos como tempo, energia, dançabilidade, loudness, entre outros.
 
 ## ⚙️ O que foi feito (PT-BR)

@@ -127,7 +127,7 @@ Sistema ML para otimização de custos energéticos com previsões 99.8% acurada
 | **📺 2** | [**EDA YouTube Trending**](./2.%20Portfolio%20-%20YouTube%20Trending%20Videos%20EDA/) | Pandas, Plotly | EDA Profunda, Visualização |
 | **₿ 3** | [**ETL Bitcoin**](./3.%20Portfolio%20-%20Bitcoin%20ETL%20Pipeline/) | PostgreSQL, APIs | Pipeline de Dados, Automação |
 | **🤖 4** | [**Automação Python**](./4.%20Portfolio%20-%20Python%20Automation/) | Python, openpyxl | RPA, Produtividade |
-| **🗄️ 5** | [**ETL Northwind**](./5.%20Portfolio%20-%20Northwind%20ETL/) | SQL, Power BI | Modelagem Star Schema, BI |
+| **🗄️ 5** | [**ETL Northwind**](https://github.com/Felicxio/Data-Science-Portfolio/tree/main/5.%20Portfolio%20-%20ETL%20pipeline%20Northwind%20DB/sales-pipeline) | SQL, Power BI | Modelagem Star Schema, BI |
 
 ---
 

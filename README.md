@@ -171,18 +171,6 @@ Sistema ML para otimização de custos energéticos com previsões 99.8% acurada
 
 ---
 
-## 📈 Evolução do Portfólio
-```
-2024-Q2  → Projetos 1-2 (Classificação, EDA)
-2024-Q3  → Projetos 3-5 (ETL, Automação, BI)
-2024-Q4  → Projeto 6 (ML Avançado, Feature Engineering, Validação Rigorosa)
-         ↑ Maturidade técnica crescente
-```
-
-**Progressão clara:** De projetos básicos → ML completo com pensamento de produção
-
----
-
 ## 🎓 Formação & Certificações
 
 **🎓 Graduação:**

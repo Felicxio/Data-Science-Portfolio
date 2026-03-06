@@ -123,10 +123,10 @@ Sistema ML para otimização de custos energéticos com previsões 99.8% acurada
 
 | # | Projeto | Stack | Competências |
 |---|---------|-------|--------------|
-| **🎵 1** | [**Classificação Spotify**](./1.%20Portfolio%20-%20Spotify%20Songs%20Classification/) | scikit-learn, Pandas | ML Classificação, Feature Engineering |
-| **📺 2** | [**EDA YouTube Trending**](./2.%20Portfolio%20-%20YouTube%20Trending%20Videos%20EDA/) | Pandas, Plotly | EDA Profunda, Visualização |
-| **₿ 3** | [**ETL Bitcoin**](./3.%20Portfolio%20-%20Bitcoin%20ETL%20Pipeline/) | PostgreSQL, APIs | Pipeline de Dados, Automação |
-| **🤖 4** | [**Automação Python**](./4.%20Portfolio%20-%20Python%20Automation/) | Python, openpyxl | RPA, Produtividade |
+| **🎵 1** | [**Classificação Spotify**](https://github.com/Felicxio/Data-Science-Portfolio/tree/main/1.%20Portfolio-%20Classificação%20de%20músicas%20do%20Spotify) | scikit-learn, Pandas | ML Classificação, Feature Engineering |
+| **📺 2** | [**EDA YouTube Trending**](https://github.com/Felicxio/Data-Science-Portfolio/tree/main/2.%20Portfolio%20-%20EDA%20Estatisticas%20Youtube%202023) | Pandas, Plotly | EDA Profunda, Visualização |
+| **₿ 3** | [**ETL Bitcoin**](https://github.com/Felicxio/Data-Science-Portfolio/tree/main/3.%20Portfolio%20-%20ETL%20Bitcoin%20Price/Notebook) | PostgreSQL, APIs | Pipeline de Dados, Automação |
+| **🤖 4** | [**Automação Python**](https://github.com/Felicxio/Data-Science-Portfolio/tree/main/4.%20Portfolio%20-%20Automação%20Dados%20Python) | Python, openpyxl | RPA, Produtividade |
 | **🗄️ 5** | [**ETL Northwind**](https://github.com/Felicxio/Data-Science-Portfolio/tree/main/5.%20Portfolio%20-%20ETL%20pipeline%20Northwind%20DB/sales-pipeline) | SQL, Power BI | Modelagem Star Schema, BI |
 
 ---

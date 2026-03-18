@@ -1,0 +1,31 @@
+# Segredos — NUNCA commitados
+.env
+.env.*
+!.env.example
+
+# Dados operacionais
+data/raw/
+data/processed/
+data/chroma_db/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+dist/
+*.egg-info/
+
+# Ambientes
+.venv/
+venv/
+
+# IDEs
+.cursor/
+.vscode/  
+.idea/
+
+# Notebooks — outputs limpos no commit
+notebooks/**/.ipynb_checkpoints/

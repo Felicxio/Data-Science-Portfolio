@@ -282,7 +282,7 @@ Engenheiro Mecatrônico → Transição para Ciência de Dados
 🔧 **Diferenciais:** Conhecimento de domínio industrial + Rigor técnico em ML
 
 📧 Email: [jvictor3651@gmail.com]  
-💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/joão-victor-assunção-pereira-88a461211/)  
+💼 LinkedIn: [https://www.linkedin.com/in/joão-victor-assunção-pereira-88a461211]
 🐙 GitHub: [github.com/Felicxio](https://github.com/Felicxio)
 
 ---
